@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-Name: _______________________________________
+Name: Thomas Harrison
 
 ## DUE: 31 Aug 2017
 
